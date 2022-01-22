@@ -5,3 +5,5 @@ We have chosen three machine learning models and have distributed for the focus 
 •	Nuraini Muhammad Naim: Logistic Regression
 
 •	Lee Zi Sheng: Support Vector Machine
+
+All results and discussion are presented in the 'finalreport'.
